@@ -7,3 +7,8 @@ The project makes use of the Tensorflow library during the training process, and
 This project requires the use the following hardware:
 * Raspberry Pi 4
 * Raspberry Pi Camera module V2.1
+
+References
+
+* OpenCV Raspberry Pi installation: https://qengineering.eu/install-opencv-on-raspberry-pi.html
+* Tensorflow Raspberry Pi installation: https://qengineering.eu/install-tensorflow-on-raspberry-64-os.html
